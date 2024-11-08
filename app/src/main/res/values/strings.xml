@@ -1,0 +1,35 @@
+<resources>
+    <!-- Corrected string resources -->
+    <string name="app_name">Norbert Activity</string>
+
+    <!-- Existing string resource -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- New string resources -->
+    <string name="fragment1_title">Child Information</string>
+    <string name="fragment2_title">Child List</string>
+    <string name="button_save">Save</string>
+    <string name="button_view">View List</string>
+    <string name="input_name_hint">Enter child\'s name</string>
+    <string name="input_age_hint">Enter child\'s age</string>
+    <string name="input_is_student_hint">Is the child a student?</string>
+
+    <!-- Added missing string resources -->
+    <string name="child_gender_label">Child\'s Gender</string>
+    <string name="input_gender_hint">Enter child\'s gender</string>
+    <string name="has_siblings">Has siblings?</string>
+    <string name="child_name">child name</string>
+    <string name="is_fruitful">is child</string>
+    <string name="load_fragment2">fragment</string>>
+    <string name="child_type">child_type</string>>
+    <!-- In strings.xml -->
+    <string-array name="grade_array">
+        <item>1st Grade</item>
+        <item>2nd Grade</item>
+        <item>3rd Grade</item>
+        <item>4th Grade</item>
+        <item>5th Grade</item>
+        <!-- Add more grades as needed -->
+    </string-array>
+
+</resources>
